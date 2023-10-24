@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1, p, span {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.menu-popular {
+    background-image: url('./images/TOMAT_1');
+
+}
+  

@@ -1,0 +1,340 @@
+.tomat-kebalik-1 {
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.the-popular-restaurant-consistently-garners-rave-reviews-and-high-customer-ratings-boasting-a-remarkable-95-satisfaction-rate-among-diners-making-it-a-top-choice-for-culinary-enthusiasts {
+  color: #000000;
+  text-align: center;
+  font: 300 36px "Montserrat", sans-serif;
+  position: absolute;
+  left: calc(50% - 557px);
+  top: 240px;
+  width: 1114px;
+}
+.our-statistics {
+  color: #343434;
+  text-align: center;
+  font: 700 96px "Montserrat", sans-serif;
+  position: absolute;
+  left: calc(50% - 407px);
+  top: 93px;
+}
+.rectangle-4 {
+  background: #333333;
+  border-radius: 20px;
+  width: 467px;
+  height: 467px;
+  position: absolute;
+  left: 727px;
+  top: 510px;
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-6 {
+  background: #333333;
+  border-radius: 20px;
+  width: 467px;
+  height: 467px;
+  position: absolute;
+  left: 136px;
+  top: 510px;
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.25);
+}
+.rectangle-5 {
+  background: #333333;
+  border-radius: 20px;
+  width: 467px;
+  height: 467px;
+  position: absolute;
+  left: 1318px;
+  top: 510px;
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.25);
+}
+._95 {
+  color: #f8f8f8;
+  text-align: center;
+  font: 700 125px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1420px;
+  top: 616px;
+}
+.satisfication-rate {
+  color: #ffffff;
+  text-align: center;
+  font: 700 50px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1352px;
+  top: 798px;
+}
+._3-5-k {
+  color: #f8f8f8;
+  text-align: center;
+  font: 700 125px "Montserrat", sans-serif;
+  position: absolute;
+  left: 201px;
+  top: 616px;
+}
+.customer {
+  color: #ffffff;
+  text-align: center;
+  font: 700 50px "Montserrat", sans-serif;
+  position: absolute;
+  left: 220px;
+  top: 798px;
+}
+._500 {
+  color: #f8f8f8;
+  text-align: center;
+  font: 700 125px "Montserrat", sans-serif;
+  position: absolute;
+  left: 838px;
+  top: 616px;
+}
+.store {
+  color: #ffffff;
+  text-align: center;
+  font: 700 50px "Montserrat", sans-serif;
+  position: absolute;
+  left: 873px;
+  top: 798px;
+}
+
+@media screen and (max-width: 768px) {
+
+  .rectangle-8 {
+    width: 200px;
+    height: 200px;
+ }
+
+ .rectangle-10 {
+    width: 200px;
+    height: 200px;
+    left: 446px;
+    top: 213px;
+ }
+
+ .rectangle-11 {
+    width: 200px;
+    height: 200px;
+    left: 300px;
+    top: 803px;
+ }
+
+ .rectangle-12 {
+    width: 200px;
+    height: 200px;
+    left: 154px;
+    top: 523px;
+ }
+
+ .rectangle-13 {
+    width: 200px;
+    height: 200px;
+    left: 154px;
+    top: 213px;
+ }
+
+ .rectangle-14 {
+    width: 200px;
+    height: 200px;
+    left: 448px;
+    top: 524px;
+ }
+
+ .rectangle-6 {
+    width: 200px;
+    height: 200px;
+    left: 282px;
+    top: 306px;
+ }
+
+ ._3-5-k {
+  left: 335px;
+  top: 361px;
+  font: 700 37px "Montserrat", sans-serif;
+ }
+ 
+ .customer {
+  font: 700 22px "Montserrat", sans-serif;
+  left: 316px;
+  top: 413px;
+}
+
+.rectangle-4 {
+ width: 200px;
+ height: 200px;
+ left: 282px;
+ top: 510px;
+}
+
+._95 {
+  font: 700 36px "Montserrat", sans-serif;
+  left: 347px;
+  top: 562px;
+}
+
+.satisfication-rate {
+  font: 700 20px "Montserrat", sans-serif;
+  left: 306px;
+  top: 606px;
+}
+
+._500 {
+font: 700 40px "Montserrat", sans-serif;
+left: 343px;
+top: 778px;
+}
+
+.store {
+font: 700 30px "Montserrat", sans-serif;
+left: 331px;
+top: 822px;
+}
+
+.rectangle-5 {
+width: 200px;
+height: 200px;
+left: 282px;
+top: 717px;
+}
+
+.our-statistics {
+font: 700 62px "Montserrat", sans-serif;
+position: static;
+padding-top: 10rem;
+
+}
+
+.the-popular-restaurant-consistently-garners-rave-reviews-and-high-customer-ratings-boasting-a-remarkable-95-satisfaction-rate-among-diners-making-it-a-top-choice-for-culinary-enthusiasts {
+font: 400 24px "Montserrat", sans-serif;
+position: static;
+width: 770px;
+text-align: center;
+
+}
+  
+}
+@media screen and (max-width: 390px) {
+
+  .rectangle-8 {
+    width: 115px;
+  height: 115px;
+ }
+
+ .rectangle-10 {
+  width: 115px;
+  height: 115px;
+  left: 125px;
+  top: 819px;
+ }
+
+ .rectangle-11 {
+  width: 115px;
+  height: 115px;
+  left: 125px;
+  top: 513px;
+ }
+
+ .rectangle-12 {
+  width: 115px;
+  height: 115px;
+  left: 127px;
+  top: 364px;
+ }
+
+ .rectangle-13 {
+  width: 115px;
+  height: 115px;
+  left: 126px;
+  top: 213px;
+}
+
+ .rectangle-14 {
+  width: 115px;
+  height: 115px;
+  left: 125px;
+  top: 669px;
+ }
+
+ ._3-5-k {
+  left: 154px;
+  top: 407px;
+ }
+ 
+ .customer {
+  left: 133px;
+  top: 455px;
+}
+
+.rectangle-4 {
+  left: 100px;
+  top: 565px;
+}
+
+._95 {
+  left: 164px;
+  top: 612px;
+}
+
+.satisfication-rate {
+  left: 122px;
+    top: 658px;
+}
+
+._500 {
+left: 163px;
+top: 820px;
+}
+
+.store {
+  left: 149px;
+  top: 866px;
+}
+
+.rectangle-5 {
+width: 200px;
+height: 200px;
+left: 100px;
+top: 770px;
+}
+
+.our-statistics {
+position: static;
+padding-top: 10rem;
+
+}
+
+.the-popular-restaurant-consistently-garners-rave-reviews-and-high-customer-ratings-boasting-a-remarkable-95-satisfaction-rate-among-diners-making-it-a-top-choice-for-culinary-enthusiasts {
+  font: 400 18px "Montserrat", sans-serif;
+  width: 386px;
+
+}
+
+.drinks{
+  font: 700 24px "Montserrat", sans-serif;
+}
+
+.appetizer {
+  font: 700 20px "Montserrat", sans-serif;
+}
+
+.dessert {
+  font: 700 24px "Montserrat", sans-serif;
+}
+
+.snacks {
+  font: 700 24px "Montserrat", sans-serif;  
+}
+
+.main-dish {
+  font: 700 20px "Montserrat", sans-serif; 
+}
+
+.rectangle-6 {
+  left: 100px;
+  top: 360px;
+ }
+
+}
